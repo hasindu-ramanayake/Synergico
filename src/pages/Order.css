@@ -1,0 +1,23 @@
+.order-container {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    background-color: #dcdcdc;
+    padding: 30px;
+}
+
+.order-textBox {
+    width: 500px;
+    padding: 10px;
+    font-size: 15px;
+    margin-bottom: 10px;
+}
+
+.order-button {
+    padding: 10px;
+    font-size: 18px;
+    margin-bottom: 10px;
+    border: none;
+    color: white;
+    background-color: black;
+}
